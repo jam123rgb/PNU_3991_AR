@@ -16,7 +16,7 @@
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/jam123rgb/PNU_3991_AR/blob/main/_General/JB_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی]()
+- [خلاصه ارزیابی بخش عمومی](https://github.com/jam123rgb/PNU_3991_AR/blob/main/_General/JB_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس ارشد
 - [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/jam123rgb/PNU_3991_AR/blob/main/_General/JB_SoftwareArchitecture_CheckList_AR_3991.pdf)
