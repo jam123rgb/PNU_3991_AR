@@ -24,7 +24,6 @@
 ------------------
 ## فهرست درس ها  
 
-
 [1115280_01	معماري نرم افزار	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareArchitecture)
 
 
